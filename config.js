@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94740804536', 'Dinuwa Official²⁰²³', true],
-  ['94740804536', 'Dinuwa Official²⁰²³', true], 
+  ['6285773636258', 'Pak Slapur Official²⁰²³', true],
+  ['6282328683258', 'Dfyxxoz Official²⁰²³', true], 
   [''] 
 ] //Number of owners
 
@@ -59,12 +59,12 @@ global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
-global.rwait = '🇱🇰'
+global.wait = '*💝 _Sabar Lee Masih Proses😹..._*'
+global.rwait = '😱'
 global.dmoji = '🤣'
-global.done = '👍'
-global.error = '👎' 
-global.xmoji = '🫶' 
+global.done = '🇵🇷'
+global.error = '🐵' 
+global.xmoji = '🤓' 
 
 global.multiplier = 69 
 global.maxwarn = '3' // máxima advertencias
